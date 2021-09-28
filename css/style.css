@@ -29,9 +29,10 @@ body{
   color: #000000;
   font-size: 16px;
   margin: 1.2em;
-  background-image: url("images\pigeon-background.JPEG");
   background-size: cover ;
+  background-image: "C:\Users\bhugg\Documents\GitHub\homework4-2021\images\pigeon-background.JPEG";
   background-position: center;
+  background-repeat: no-repeat;
   background-color: #DDDDDD;
 
   /*Req 1*/
