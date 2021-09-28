@@ -97,7 +97,8 @@ td{
 
 .rowhead{
   border-width: 2px;
-  /* border-color: #000000; ###MAKE SURE THIS IS ONLY USED ON SIDES NOT TOUCHING AN EXISTING BORDER### */
+  border-color: #000000;
+
   
 
 
@@ -119,7 +120,11 @@ thead tr:first-child th:first-child{}
 
 
 footer{
+  min-height: 75px;
   width:100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
   background:#000000;
   text-align:center;
   color: #FFFFFF;
