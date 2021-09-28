@@ -23,7 +23,7 @@ caption{
 } */
 
 /*END STARTER CODE*/
-
+/* Body NEEDS THE IMAGE GOSH DARN IT */
 body{
   font-family: 'Andika', sans-serif;
   color: #000000;
@@ -37,7 +37,7 @@ body{
 
   /*Req 1*/
 }
-
+/* H1 Stuff finished */
 h1{
   color: #c12258;
   font-size: 2em;
@@ -47,7 +47,7 @@ h1{
 
   /*Req 2*/
 }
-
+/* Paragraph text is finished */
 p{
   padding-top: 15px;
   padding-right: 0px;
@@ -55,7 +55,7 @@ p{
   padding-left: 0px;
 
 }
-
+/* Links are finished but the color might be messed up */
 a{
   color: #C12258;
   text-decoration-line: underline;
@@ -66,6 +66,7 @@ a{
 
 /*Req 5*/
 /*Add selector and rule here*/
+/* Focus is finished */
 *:focus{
   border-width: 3px;
   border-style: dashed;
@@ -73,7 +74,7 @@ a{
 }
 
 
-
+/* Cells are finished */
 td{
   text-align: center;
   border-top:2px #000000;
@@ -83,7 +84,7 @@ td{
 
 }
 
-
+/* Colhead is finished */
 .colhead{
   color: #FFFFFF;
   min-width: 125px;
@@ -94,10 +95,12 @@ td{
 
 
 }
-
+/* Struggling lining up and getting border to show */
 .rowhead{
-  border-width: 2px;
+  border-width: 0px 2px 2px 0px;
   border-color: #000000;
+
+
 
   
 
@@ -113,7 +116,9 @@ table{
 
 /* I gave you the selector, but not the property-value pair. 
 You can use Inspect Element or your editor to find selectors. */
-thead tr:first-child th:first-child{}
+thead tr:first-child th:first-child{
+
+}
 
 /*Add selectors and rules here*/
 
