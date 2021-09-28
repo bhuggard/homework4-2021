@@ -90,9 +90,11 @@ td{
 
 
 table{
-    border: 5px solid #000000;
-    align-self: center;
-}
+  margin: auto;
+  border: 5px solid #000000;
+
+  }
+
 
 /* I gave you the selector, but not the property-value pair. 
 You can use Inspect Element or your editor to find selectors. */
