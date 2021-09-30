@@ -97,8 +97,9 @@ td{
 }
 /* Struggling lining up and getting border to show */
 .rowhead{
-  border: 2px 2px 0px 0px solid #000000;
-
+  text-align: center;
+  border-top:2px solid #000000;
+  padding: 10px;
 }
 
 
@@ -115,6 +116,8 @@ thead tr:first-child th:first-child{
 }
 
 /*Add selectors and rules here*/
+
+
 
 
 
