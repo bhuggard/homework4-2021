@@ -30,7 +30,7 @@ body{
   font-size: 16px;
   margin: 1.2em;
   background-color: #DDDDDD;
-  background: url(images/pion-background.JPEG) no-repeat center fixed;
+  background: url(../images/pigeon-background.JPEG) no-repeat center fixed;
   background-size: cover;
 
   /*Req 1*/
@@ -95,14 +95,11 @@ td{
 }
 /* Struggling lining up and getting border to show */
 .rowhead{
+  text-align: center;
+  border-top:2px #000000;
+  padding: 10px;
   border-width: 0px 2px 2px 0px;
   border-color: #000000;
-
-
-
-  
-
-
 }
 
 
