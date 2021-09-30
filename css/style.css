@@ -41,12 +41,11 @@ body{
 h1{
   color: #c12258;
   font-size: 2em;
-  size: 32px;
+  box-sizing: 32px;
   text-align: center;
   line-height: 2;
-
-  /*Req 2*/
 }
+
 /* Paragraph text is finished */
 p{
   padding-top: 15px;
@@ -102,12 +101,12 @@ td{
   padding: 10px;
 }
 
-tr:hover {
-  background-color: rgba(126, 8, 37, .25);
-}
-
 tr:nth-child(even) {
   background-color: #D1D1D1;
+}
+
+tr:hover {
+  background-color: rgba(126, 8, 37, .25);
 }
 
 table{
@@ -131,7 +130,7 @@ thead tr:first-child th:first-child{
 
 footer{
   min-height: 75px;
-  width: 1fr;
+  width: 100%;
   position: fixed;
   left: 0;
   bottom: 0;
