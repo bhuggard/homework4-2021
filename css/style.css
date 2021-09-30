@@ -40,7 +40,7 @@ body{
 /* H1 Stuff finished */
 h1{
   color: #c12258;
-  font-size: 2em;
+  font-size: 32px;
   text-align: center;
   line-height: 2;
 }
@@ -55,7 +55,8 @@ p{
 }
 /* Links are finished but the color might be messed up */
 a{
-  color: #81183B;
+  font-size: 16px;
+  color: #B92751;
   text-decoration-line: underline;
   text-decoration-style: wavy;
 
@@ -88,6 +89,7 @@ td{
   min-width: 125px;
   padding: 10px;
   text-align: center;
+  vertical-align: middle;
   text-transform: uppercase;
   background-color: #7e0825;
 }
