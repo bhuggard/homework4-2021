@@ -103,7 +103,8 @@ td{
 }
 
 tr:nth-child(even) {
-  background-color: #D1D1D1;}
+  background-color: #417243;
+}
 
 table{
   border: 5px solid #000000;
