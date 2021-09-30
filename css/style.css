@@ -29,11 +29,9 @@ body{
   color: #000000;
   font-size: 16px;
   margin: 1.2em;
-  background-size: cover ;
   background-color: #DDDDDD;
-  background-image: url(../images/pigeon-background.JPEG);
-  background-repeat: no-repeat;
-  background-position: center;
+  background: url(../images/pigeon-background.JPEG) no-repeat center fixed;
+  background-size: cover;
 
   /*Req 1*/
 }
