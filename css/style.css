@@ -30,8 +30,10 @@ body{
   font-size: 16px;
   margin: 1.2em;
   background-color: #DDDDDD;
-  background-image: url(../images/pigeon-background.JPEG) no-repeat center fixed;
+  background-image: url(../images/pigeon-background.JPEG);
+  background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 
   /*Req 1*/
 }
