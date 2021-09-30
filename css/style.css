@@ -57,7 +57,7 @@ p{
 }
 /* Links are finished but the color might be messed up */
 a{
-  color: #C12258;
+  color: #B92751;
   text-decoration-line: underline;
   text-decoration-style: wavy;
 
@@ -131,7 +131,7 @@ thead tr:first-child th:first-child{
 
 footer{
   min-height: 75px;
-  width:100%;
+  width: 1fr;
   position: fixed;
   left: 0;
   bottom: 0;
