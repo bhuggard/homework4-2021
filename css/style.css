@@ -97,7 +97,7 @@ td{
 }
 /* Struggling lining up and getting border to show */
 .rowhead{
-  border: 2px 2px 0px 0px solid #000000
+  border: 2px 2px 0px 0px solid #000000;
 
 }
 
