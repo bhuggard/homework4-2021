@@ -30,7 +30,7 @@ body{
   font-size: 16px;
   margin: 1.2em;
   background-size: cover ;
-  background-image: url"../images/pigeon-background.JPEG" #DDDDDD;
+  background-image: url(../images/pigeon-background.JPEG) #DDDDDD;
   background-repeat: no-repeat;
   background-position: center;
 
