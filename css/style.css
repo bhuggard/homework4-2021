@@ -23,7 +23,7 @@ caption{
 } */
 
 /*END STARTER CODE*/
-/* Body NEEDS THE IMAGE GOSH DARN IT */
+
 body{
   font-family: 'Andika', sans-serif;
   color: #000000;
@@ -112,6 +112,7 @@ tr:hover {
 
 table{
   border: 5px solid #000000;
+  border-radius: 50px;
   margin: 0 auto;
 }
 
