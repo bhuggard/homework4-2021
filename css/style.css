@@ -92,13 +92,12 @@ td{
   text-align: center;
   text-transform: uppercase;
   background-color: #7e0825;
-
-
 }
-/* Why wont you show the fuck up man */
+
+/* Won't show up */
 .rowhead{
   text-align: center;
-  border-top:2px solid #000000;
+  border-top: 2px solid #000000;
   border-right: 2px solid #000000;
   padding: 10px;
 }
